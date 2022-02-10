@@ -23,6 +23,6 @@ Although the current implementation class used by default is using ***BADS***, t
 At the moment, there is another class in development available to test, but the necessary methods defined by a solver **interface** are **not implemented**, so an exception will occur when overriding the default ***BADS*** SolverType. 
 
 
-There is a console application that uses this library, referenced as a **NuGet package**, available in the following repository: https://github.com/R-Raposo/BluePrism_TechTest
+There is a console application that uses this library, referenced as a **NuGet package**, available in the following repository: https://github.com/R-Raposo/WordLadderConsoleApp
 
 This library, as previously written, is available as a NuGet package: https://www.nuget.org/packages/WordLadderSolver/
