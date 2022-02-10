@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WordLadderSolver", "..\Projects\RicardoRaposo.WordLadderSolver\WordLadderSolver.csproj", "{35DFA750-22AB-48E3-88EB-38FC079DE6D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RRWLTester", "..\Projects\RicardoRaposo.WordLadderSolver.Tests\RRWLTester.csproj", "{55A97F16-1D3F-4340-AD3C-00B120CB2CF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35DFA750-22AB-48E3-88EB-38FC079DE6D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35DFA750-22AB-48E3-88EB-38FC079DE6D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35DFA750-22AB-48E3-88EB-38FC079DE6D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35DFA750-22AB-48E3-88EB-38FC079DE6D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55A97F16-1D3F-4340-AD3C-00B120CB2CF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55A97F16-1D3F-4340-AD3C-00B120CB2CF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55A97F16-1D3F-4340-AD3C-00B120CB2CF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55A97F16-1D3F-4340-AD3C-00B120CB2CF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C485CF0B-FA96-4FFA-9E9B-1B01D766BB0E}
+	EndGlobalSection
+EndGlobal

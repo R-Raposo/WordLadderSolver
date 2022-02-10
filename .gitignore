@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Projects/RicardoRaposo.WordLadderSolver.Tests/obj
+/Projects/RicardoRaposo.WordLadderSolver.Tests/bin
+/Projects/RicardoRaposo.WordLadderSolver.Tests/bin/Debug/netcoreapp3.1
+/Solutions/.vs
+Solutions/.vs/WordLadderSolver/v16/.suo
+Projects/RicardoRaposo.WordLadderSolver.Tests/RRWLTester.csproj.user
+*.user
+Solutions/.vs/WordLadderSolver/v16/.suo
+Projects/RicardoRaposo.WordLadderSolver.Tests/obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+Projects/RicardoRaposo.WordLadderSolver.Tests/obj/Debug/netcoreapp3.1/RRWLTester.AssemblyInfo.cs
+Projects/RicardoRaposo.WordLadderSolver.Tests/obj/Debug/netcoreapp3.1/RRWLTester.AssemblyInfoInputs.cache
+*.cache
+Projects/RicardoRaposo.WordLadderSolver.Tests/obj/Debug/netcoreapp3.1/RRWLTester.GeneratedMSBuildEditorConfig.editorconfig
+Solutions/.vs/WordLadderSolver/v16/.suo
+Projects/RicardoRaposo.WordLadderSolver.Tests/RRWLTester.csproj.user
